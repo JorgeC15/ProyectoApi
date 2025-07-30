@@ -1,0 +1,12 @@
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\bin\Debug\ProyectoApi.Data.dll
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\bin\Debug\ProyectoApi.Data.pdb
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\bin\Debug\EntityFramework.dll
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\obj\Debug\ProyectoApi.Data.csprojAssemblyReference.cache
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\obj\Debug\ProyectoApi.Data.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\obj\Debug\ProyectoApi.Data.csproj.CopyComplete
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\obj\Debug\ProyectoApi.Data.dll
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\obj\Debug\ProyectoApi.Data.pdb
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\obj\Debug\ProyectoApi.Data.Migrations.Initial.resources
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\obj\Debug\ProyectoApi.Data.csproj.GenerateResource.cache
+D:\Escritorio\C#\Taller.APIREST\ProyectoApi\ProyectoApi.Data\obj\Debug\ProyectoApi.Data.Migrations.WithAuthor.resources
